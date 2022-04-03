@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header__logo{
+    position: absolute;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    overflow: hidden;
+    margin-left: 500px;
+}
+a {
+    text-decoration: none;
+    justify-content: space-between;
+    display: flexbox;
+   
+    color: black;
+}
+li{
+    display: inline;
+}
